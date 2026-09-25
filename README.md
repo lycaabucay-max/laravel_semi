@@ -23,4 +23,11 @@ Database Used: MySQL
 5. Run `php artisan serve` and visit `http://127.0.0.1:8000`.
 
 ## Screenshots
-(coming because its not done yet)
+<img width="1903" height="945" alt="image" src="https://github.com/user-attachments/assets/6a4f9bac-b5bf-4369-975c-5d49520a3e9a" />
+<img width="1906" height="950" alt="image" src="https://github.com/user-attachments/assets/3014a4ac-a71b-4331-a2c5-96adaaa019fd" />
+<img width="1905" height="943" alt="image" src="https://github.com/user-attachments/assets/3a1a7ccf-e9ae-4eb5-8759-bb855065f2bb" />
+<img width="923" height="605" alt="image" src="https://github.com/user-attachments/assets/90577cfe-db6b-45b0-8001-c1d2506002ee" />
+
+
+
+
