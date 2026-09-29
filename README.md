@@ -16,7 +16,7 @@ Database Used: MySQL
 - Update Status: Allows users to change the status of a task to keep track of its current progress or completion.
 
 ## Setup
-1. Clone the repo and run `composer install`.
+1. `composer install`.
 2. Copy `.env.example` to `.env` and set your database credentials.
 3. Run `php artisan key:generate`.
 4. Run `php artisan migrate`.
